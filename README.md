@@ -1,6 +1,6 @@
 # THE VILLAGE - Digital Village Management System
 
-Welcome to "The Village" – Your Gateway to a Smart and Connected Mahabaleshwar!
+Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
 
 ![Banner Image]
 
