@@ -2,7 +2,6 @@
 
 Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
 
-![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%201.png?raw=true)
 
 ## Table of Contents
 
@@ -38,9 +37,7 @@ Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
 
 - **Database**: MySQL is the database management system of choice, storing and managing all user and administrative data efficiently.
 
-> ![Architecture Diagram](architecture-diagram.png)
->
-> [Add an image here to showcase the system architecture]
+
 
 ### Architecture
 
@@ -52,7 +49,7 @@ Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
 
 - **Database**: MySQL stores and manages user data, administrative information, and various system records.
 
-> [Include a more detailed description of the architecture]
+
 
 ## Visitors
 
@@ -67,7 +64,6 @@ Visitors to "The Village" can access a wealth of information without requiring l
 - **Village Health:** Keep abreast of COVID-19 statistics, hospital bed availability, and vaccination center information.
 - **Village Places:** Access comprehensive details about essential village establishments, including hospitals, schools, colleges, factories, temples, and stores.
 
-> [Add Images here to showcase the beauty of Mahabaleshwar]
 
 ## Authorized Villagers
 
@@ -83,8 +79,6 @@ For authorized residents, "The Village" provides a personalized and feature-rich
 - **Complaint Mail:** Report concerns to the village administration and receive timely responses.
 - **Documentation Section:** Securely download essential personal documents using your Aadhar number.
 - **Chatbot:** Engage with the village chatbot for quick responses to inquiries.
-
-> [Include Screenshots of User Dashboard and Features]
 
 ## Admin Side
 
@@ -104,8 +98,6 @@ Administrators play a pivotal role in managing "The Village" and ensuring its sm
 - **Job Portal:** Foster employment opportunities by managing job applications, listings, and job categories.
 - **ChatBot:** Monitor and enhance the chatbot's interactions and responses.
 - **Admin Profile:** Manage your administrative profile, including password changes.
-
-> [Include Screenshots of Admin Dashboard and Features]
 
 ## Project Purpose
 
@@ -165,5 +157,5 @@ We extend our heartfelt gratitude to the Mahabaleshwar Government for their gene
 
 For inquiries or assistance, please do not hesitate to reach out:
 
-- Email: [Your Email Address]
-- Website: [Project Website]
+- Email: [rohansbedage2001@gmail.com]
+- Website: [!] 
