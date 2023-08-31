@@ -158,4 +158,237 @@ We extend our heartfelt gratitude to the Mahabaleshwar Government for their gene
 For inquiries or assistance, please do not hesitate to reach out:
 
 - Email: [rohansbedage2001@gmail.com]
-- Website: [!] 
+- Website: [!]
+
+  
+## Website Snapshots
+
+1. Visitors Page :
+   
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%205.png?raw=true)
+
+2. Tourists Places :
+   
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%209.png?raw=true)
+
+3. Tourists Guiders :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%207.png?raw=true)
+
+4. Tourists Hotels :
+   
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%2010.png?raw=true)
+ 
+5. Village Health :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Village%20Health/Village%20Health%204.png?raw=true)
+
+6. Village Places :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Village%20Places/Village%20Places%201.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Village%20Places/Village%20Places%202.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Village%20Places/Village%20Places%203.png?raw=true)
+
+7.  Login Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Login/Login%201.png?raw=true) 
+
+8. Registration Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Login/Login%202.png?raw=true) 
+
+9. Account Page : 
+
+ ![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Personal%20Info/personal%20Info.png?raw=true)   
+
+10. Water/Property Tax Page :    
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Tax/TAX%201.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Tax/TAX%202.png?raw=true) 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Tax/TAX%203.png?raw=true)
+
+
+11. Complaint Mail Page : 
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Mail/Mail%201.png?raw=true)
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Mail/Mail%202.png?raw=true)
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Mail/Mail%203.png?raw=true)
+
+
+12. Documentation Section :
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Documentation/Documentation%20Section%201.png?raw=true)
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Documentation/Documentation%20Section%202.png?raw=true)
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Documentation/Documentation%20Section%203.png?raw=true)
+
+
+
+13. Chatbot Page :
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/chatbot/chatbot%201.png?raw=true)
+
+
+14. Job Portal Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/job/job%201.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/job/job%203.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/job/job%204.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/job/job%205.png?raw=true)
+
+
+15. POST BOX Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/PostBox/PostBox%201.png?raw=true)
+
+
+16. Market Prices Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/Market%20Price/Market%20Price%201.png?raw=true) 
+
+
+17. Village Schemes Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/schemes/schemes%201.png?raw=true)    
+
+
+18. About Village Page : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/About%20Village/About%20Village%201.png?raw=true)
+
+
+19. Admin Dashboard : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%201.png?raw=true)
+
+
+20. Notification Management Page :
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%202.png?raw=true)
+   
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%203.png?raw=true) 
+
+
+21. Breaking News Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%204.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%205.png?raw=true)
+
+
+22. Medical Information Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%206.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%207.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%208.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%209.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2010.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2011.png?raw=true)
+
+
+23. User Management Page : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2012.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2013.png?raw=true)
+
+24. Complaint Mail Management Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2014.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2015.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2016.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2017.png?raw=true)
+
+
+25. Villagers Management Page : 
+
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2018.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2019.png?raw=true)
+
+
+26. Village Places Management Page : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2020.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2021.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2022.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2023.png?raw=true)
+
+
+
+27. Documentation Management Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2024.png?raw=true)    
+
+
+28. Schemes Management Page :  
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2025.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2026.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2027.png?raw=true)
+
+
+29. POSTBOX Management Page :
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2028.png?raw=true)
+
+
+30. Job Portal Management Page : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2029.png?raw=true)
+
+31. ChatBot Management Page : 
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2030.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2031.png?raw=true)
+
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin%2032.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
