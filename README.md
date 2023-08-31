@@ -1,6 +1,6 @@
 # THE VILLAGE - Digital Village Management System
 
-Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
+Welcome to 'The Village' – Empowering Communities with Digital Solutions!
 
 
 ## Table of Contents
@@ -147,7 +147,7 @@ We welcome contributions from the community. If you wish to contribute to this p
 
 ## License
 
-"The Village" is licensed under the [License Name] License. For detailed information, refer to the [LICENSE](LICENSE) file.
+"The Village" is licensed under the [MIT license] License. For detailed information, refer to the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 
