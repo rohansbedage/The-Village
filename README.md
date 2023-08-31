@@ -2,7 +2,7 @@
 
 Welcome to "The Village" – Your Gateway to a Smart and Connected Village !
 
-![Banner Image]
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/User%20Side/visitors/visitors%201.png?raw=true)
 
 ## Table of Contents
 
