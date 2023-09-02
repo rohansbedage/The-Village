@@ -277,7 +277,7 @@ For inquiries or assistance, please do not hesitate to reach out:
 
 19. Admin Dashboard : 
 
-![Login](https://github.com/rohansbedage/The-Village/blob/main/Project%20Visuals/Admin%20Side/Admin1.png?raw=true)
+![Login](https://github.com/rohansbedage/The-Village/blob/main/Project-Visuals/Admin-Side/Admin1.png?raw=true)
 
 
 20. Notification Management Page :
