@@ -166,7 +166,7 @@ For inquiries or assistance, please do not hesitate to reach out:
 ## Website Snapshots
 
 1. Visitors Page:
-   - <img alt="Visitors Page" src="https://github.com/rohansbedage/The-Village/blob/main/Visuals/User/visitors1.png" />
+   - <img alt="Visitors Page" src="https://github.com/rohansbedage/The-Village/main/Visuals/User/visitors1.png" />
 
   
 2. Tourists Places:
